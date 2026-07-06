@@ -1,0 +1,7 @@
+1.go to the file open with git bash
+
+2. git init
+
+3. git add . 
+
+4.git commit -m "Initial commit"
