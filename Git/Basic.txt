@@ -5,3 +5,18 @@
 3. git add . 
 
 4.git commit -m "Initial commit"
+
+
+GitHub part
+
+create new repository (name)
+uncheck the lists(readme , Addgitignore,Add license)
+copy the link(http)
+
+GITBASH part 
+
+5. git remote add origin link(http)
+
+6. git remote -v (fetch,push(it will show these options)
+
+7. git push origin master
